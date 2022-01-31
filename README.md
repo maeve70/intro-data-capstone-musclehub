@@ -19,4 +19,4 @@ Janet's hypothesis is that visitors assigned to Group B will be more likely to e
 
 You will help her analyze the data and create a presentation.
 
-*I realize that the slides are kind of "busy", but this project had specific things I had to include on the slides. If I did this over I would include an appendix with all the data specifics and go with a "less is more" approach to each slide's layout.*
+*Update 1.31.22: I realize that the slides are kind of "busy", but this project had specific things I had to include on the slides. If I did this over I would include an appendix with all the data specifics and go with a "less is more" approach to each slide's layout.*
